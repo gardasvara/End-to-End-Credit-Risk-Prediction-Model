@@ -1,0 +1,8 @@
+# Ignore dataset besar
+loan_data_2007_2014.csv
+
+# Ignore semua file CSV
+*.csv
+
+# Ignore folder data (opsional)
+data/
